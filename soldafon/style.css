@@ -1,0 +1,179 @@
+body{
+  background-color: black;
+}
+.sold-site{
+  background: rgb(43,44,111);
+  background: linear-gradient(0deg, rgba(43,44,111,1) 0%, rgba(178,172,233,1) 100%);
+  width: 1685px;
+  height: 831px;
+}
+.sold-dirs{
+  text-align: center;
+  margin-left: -50px;
+}
+.text-preorder{
+  font-family: "Roboto", sans-serif;
+  font-weight:bolder;
+  font-size: 35px;
+  margin-left: 180px;
+}
+.box-name{
+  font-family: "Roboto", sans-serif;
+  font-weight:bolder;
+  width: 1250px;
+  padding-left:25px;
+  padding-top: 22px;
+  font-size: 35px;
+  border:0px;
+  border-radius: 50px;
+  margin-left:182px;
+  height: 60px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-cat{
+  width: 230px;
+  height: 45px;
+  margin-top:5px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: 0px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-main{
+  width: 230px;
+  height: 45px;
+  margin-top:5px;
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: 0px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-gos{
+  width: 230px;
+  height: 45px;
+  margin-top:5px;
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: 0px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-cont{
+  width: 230px;
+  height: 45px;
+  margin-top:5px;
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: 0px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-about{
+  width: 230px;
+  height: 45px;
+  margin-top:5px;
+  margin-left: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 50px;
+  border: 0px;
+  background-color: rgb(208, 204, 255);
+}
+.sold-boxes{
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 437px 437px 400px;
+}
+.sold-blue{
+  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  font-family: "Roboto", sans-serif;
+  font-weight:bolder;
+  width: 400px;
+  padding-left:0px;
+  padding-top: 0px;
+  font-size: 35px;
+  border:0px;
+  border-radius: 50px;
+  margin-left:182px;
+  height: 540px;
+  background: rgb(164,164,224);
+  background: linear-gradient(0deg, rgba(164,164,224,1) 0%, rgba(255,255,255,1) 33%);
+}
+.sold-white{
+  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  font-family: "Roboto", sans-serif;
+  font-weight:bolder;
+  width: 400px;
+  padding-left:0px;
+  padding-top: 0px;
+  font-size: 35px;
+  border:0px;
+  border-radius: 50px;
+  margin-left:182px;
+  height: 540px;
+  background: rgb(164,164,224);
+  background: linear-gradient(0deg, rgba(164,164,224,1) 0%, rgba(255,255,255,1) 33%);
+}
+.sold-black{
+  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.34);
+  font-family: "Roboto", sans-serif;
+  font-weight:bolder;
+  width: 400px;
+  padding-left:0px;
+  padding-top: 0px;
+  font-size: 35px;
+  border:0px;
+  border-radius: 50px;
+  margin-left:182px;
+  height: 540px;
+  background: rgb(164,164,224);
+  background: linear-gradient(0deg, rgba(164,164,224,1) 0%, rgba(255,255,255,1) 33%);
+}
+img{
+  width: 310px;
+  height: 370px;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.text-blue{
+  font-size: 23px;
+  margin-left:50px;
+}
+.text-blue-next{
+  margin-top:-20px;
+  font-size: 23px;
+  margin-left:50px;
+}
+.price{
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  margin-left:50px;
+  margin-top:-30px;
+}
+.buy{
+  width: 125px;
+  height: 35px;
+  margin-top:-30px;
+  margin-left:20px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 15px;
+  border: 0px;
+  color: white;
+  background-color: blue;
+}
+.buy:hover{
+  background-color: #5858fe;
+  border-radius: 12px;
+}
